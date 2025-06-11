@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp-X6820.mk
+    $(LOCAL_DIR)/twrp_X6820.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_X6820-eng
